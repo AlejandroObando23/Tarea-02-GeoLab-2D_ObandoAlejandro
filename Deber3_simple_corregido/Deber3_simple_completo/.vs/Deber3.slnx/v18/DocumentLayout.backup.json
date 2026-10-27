@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\margaritafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\margaritafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\margaritafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\margaritafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\menudeb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\menudeb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\hexagonofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\hexagonofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\hexagonofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\hexagonofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\figuras\\poligonoestrellado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\figuras\\poligonoestrellado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\figuras\\margarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\figuras\\margarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\figuras\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\figuras\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\figuras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\figuras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|c:\\users\\docker\\source\\repos\\deber3_simple_corregido\\deber3_simple_completo\\deber3\\menudeb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\menudeb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\poli_estrelladofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\poli_estrelladofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\poli_estrelladofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\poli_estrelladofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\deber3\\hexagonofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBB1BE3-177C-45E0-BA10-B35146CF312D}|Deber3\\Deber3.csproj|solutionrelative:deber3\\hexagonofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hexagonofrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Hexagonofrm.cs",
+              "RelativeDocumentMoniker": "Deber3\\Hexagonofrm.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Hexagonofrm.cs [Design]",
+              "RelativeToolTip": "Deber3\\Hexagonofrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T21:27:25.027Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hexagonofrm.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Hexagonofrm.cs",
+              "RelativeDocumentMoniker": "Deber3\\Hexagonofrm.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Hexagonofrm.cs",
+              "RelativeToolTip": "Deber3\\Hexagonofrm.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAuwKUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:03:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MargaritaFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MargaritaFrm.cs",
+              "RelativeDocumentMoniker": "Deber3\\MargaritaFrm.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MargaritaFrm.cs [Design]",
+              "RelativeToolTip": "Deber3\\MargaritaFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T21:27:28.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuDeb3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MenuDeb3.cs",
+              "RelativeDocumentMoniker": "Deber3\\MenuDeb3.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MenuDeb3.cs [Design]",
+              "RelativeToolTip": "Deber3\\MenuDeb3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T21:27:29.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MargaritaFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MargaritaFrm.cs",
+              "RelativeDocumentMoniker": "Deber3\\MargaritaFrm.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MargaritaFrm.cs",
+              "RelativeToolTip": "Deber3\\MargaritaFrm.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAwOIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:14:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PoligonoEstrellado.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\PoligonoEstrellado.cs",
+              "RelativeDocumentMoniker": "Deber3\\Figuras\\PoligonoEstrellado.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\PoligonoEstrellado.cs",
+              "RelativeToolTip": "Deber3\\Figuras\\PoligonoEstrellado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T06:31:52.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Margarita.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\Margarita.cs",
+              "RelativeDocumentMoniker": "Deber3\\Figuras\\Margarita.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\Margarita.cs",
+              "RelativeToolTip": "Deber3\\Figuras\\Margarita.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:31:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hexagono.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\Hexagono.cs",
+              "RelativeDocumentMoniker": "Deber3\\Figuras\\Hexagono.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\Hexagono.cs",
+              "RelativeToolTip": "Deber3\\Figuras\\Hexagono.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:32:01.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\Figura.cs",
+              "RelativeDocumentMoniker": "Deber3\\Figuras\\Figura.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Figuras\\Figura.cs",
+              "RelativeToolTip": "Deber3\\Figuras\\Figura.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAiwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:48:44.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuDeb3.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MenuDeb3.cs",
+              "RelativeDocumentMoniker": "Deber3\\MenuDeb3.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\MenuDeb3.cs",
+              "RelativeToolTip": "Deber3\\MenuDeb3.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:02:46.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Poli_estrelladoFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Poli_estrelladoFrm.cs",
+              "RelativeDocumentMoniker": "Deber3\\Poli_estrelladoFrm.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Poli_estrelladoFrm.cs [Design]",
+              "RelativeToolTip": "Deber3\\Poli_estrelladoFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:15:55.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Poli_estrelladoFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Poli_estrelladoFrm.cs",
+              "RelativeDocumentMoniker": "Deber3\\Poli_estrelladoFrm.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Poli_estrelladoFrm.cs",
+              "RelativeToolTip": "Deber3\\Poli_estrelladoFrm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwHMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:15:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hexagonofrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Hexagonofrm.Designer.cs",
+              "RelativeDocumentMoniker": "Deber3\\Hexagonofrm.Designer.cs",
+              "ToolTip": "C:\\Users\\Docker\\source\\repos\\Deber3_simple_corregido\\Deber3_simple_completo\\Deber3\\Hexagonofrm.Designer.cs",
+              "RelativeToolTip": "Deber3\\Hexagonofrm.Designer.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:03:22.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

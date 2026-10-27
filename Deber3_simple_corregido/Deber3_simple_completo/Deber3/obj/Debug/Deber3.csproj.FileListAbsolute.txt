@@ -1,0 +1,13 @@
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\bin\Debug\Deber3.exe.config
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\bin\Debug\Deber3.exe
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\bin\Debug\Deber3.pdb
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.csproj.AssemblyReference.cache
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.MenuDeb3.resources
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.Properties.Resources.resources
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.csproj.GenerateResource.cache
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.csproj.CoreCompileInputs.cache
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.exe
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.pdb
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.Hexagonofrm.resources
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.MargaritaFrm.resources
+C:\Users\Docker\source\repos\Deber3_simple_corregido\Deber3_simple_completo\Deber3\obj\Debug\Deber3.Poli_estrelladoFrm.resources

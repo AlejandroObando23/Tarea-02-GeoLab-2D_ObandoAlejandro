@@ -1,0 +1,32 @@
+DEBER 3 — SIMPLE Y COMPLETO
+
+1. Abre Deber3/Deber3.csproj en Visual Studio.
+2. Ejecuta el proyecto. Requiere Windows y .NET Framework 4.7.2.
+3. Usa el menú original: Hexagono, Margarita y Poligonos_estrellados.
+
+Controles básicos:
+- Lado o radio para cambiar el tamaño.
+- Puntas para cambiar N en la estrella.
+- Parte y Color... para cambiar cada color.
+- Clic en el lienzo para comprobar si un punto está dentro o fuera.
+
+Más opciones:
+- Posición X, posición Y, ángulo y escala.
+- Radio interior de la estrella. Su máximo se ajusta para conservar las puntas.
+- Un clic muestra magnitudes, direcciones, producto punto, determinante,
+  orientación, punto proyectado sobre el segmento rojo y distancia.
+- Menos opciones vuelve a plegar los controles; conserva sus valores.
+
+Pruebas:
+- Pulsa Pruebas en el menú, o F5, para ejecutar los 32 casos matemáticos.
+- El mensaje indica cuántos pasaron y detalla los fallos, si los hubiera.
+
+El lienzo tiene 800 x 600 píxeles. En una ventana pequeña hay barras de
+desplazamiento para recorrerlo sin reducir sus dimensiones.
+
+Se conservan los archivos fuente del ZIP original, el menú, las tres clases
+de formulario y su organización. La lógica matemática está en Figuras/ y la
+interfaz compartida en FiguraForm.cs. Los controles siguen en sus Designer.cs;
+FiguraForm.cs los organiza al ejecutar para mostrar una vista sencilla.
+
+Consulta REVISION.md para revisar el cumplimiento de cada criterio.
